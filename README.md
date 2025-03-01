@@ -1,2 +1,2 @@
 # PalatableRestaurant
-CMPE456 Final Project
+CMPE356 Final Project
